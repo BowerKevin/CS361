@@ -1,8 +1,50 @@
-<!doctype html>
-<title>Hello from Flask</title>
-<h1>Hello this is a template that we are using</h1>
-{% if name %}
-  <h1>Hello {{ name }}!</h1>
-{% else %}
-  <h1>Hello, World!</h1>
-{% endif %}
+<html>
+<head>
+    <title>Bandcart</title><link rel="stylesheet" type="text/css" href="./static/css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <!-- <img src="music.png" alt="MusicLogo"/> -->
+    <a href="#default" class="logo">Logo</a>
+    <div class="header-right">
+      <a class="active" href="#home">Home</a>
+      <a href="#contact">FAQs</a>
+      <a href="#about">About</a>
+    </div>
+  </div>
+
+    <h1 class="alt-h1 text-center mb-4 mb-md-6">LyricFinder</h1>
+    <h6 class="alt-h6 text-center mb-4 mb-md-6">
+    For all your music needs. Search for lyrics to a song. 
+    Look up an album to find a list of corresponding songs. 
+    Look up an artist to get that artist's discography.
+    </h6>
+
+    <div class="login-box">
+    <h2 class="alt-h2 text-center mb-4 mb-md-6">Search</h2>
+      <form>
+        <div class="user-box">
+          <input type="text" name="" required="">
+          <label>Song</label>
+        </div>
+        <div class="user-box">
+          <input type="text" name="" required="">
+          <label>Album</label>
+        </div>
+        <div class="user-box">
+          <input type="text" name="" required="">
+          <label>Artist</label>
+        </div>
+        <a href="#">
+          <span></span>
+          <span></span>
+          <span></span>
+          <span></span>
+          Submit
+        </a>
+      </form>
+    </div>
+    </div>
+</body>
+</html>
