@@ -33,6 +33,19 @@ def homePage():
             lyrics.save_lyrics("lyrics")
 
             return redirect("songLyrics")
+        
+        elif artistName and albumName:
+            album = genius.search_album(albumName, artistName)
+
+            if path.exists('album.json'):
+                remove('album.json')
+            
+            album.save_lyrics("album")
+
+            return redirect("albumList")
+            # print(album.tracks)
+            # for track in album.tracks:
+            #     print(track.number, track.song)
 
     return render_template('hello.html')
 
@@ -50,4 +63,17 @@ def songLyrics():
                           , artist=artist
                           , lyrics=lyrics
                           , songName=songName)
+
+@app.route("/albumList", methods=['GET'])
+def albumList():
+    albumFile = open_file("album.json", "r")
+    albumData = json.load(albumFile)
+
+    songTrackAndTitleList = []
+
+    for track in albumData['tracks']:
+        strNumAndSong = str(track['number']) + '. ' + track['song']['title']
+        songTrackAndTitleList.append(strNumAndSong)
+
+    return render_template('albumList.html', albumList=songTrackAndTitleList)
 
