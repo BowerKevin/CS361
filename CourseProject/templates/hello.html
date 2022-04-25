@@ -14,35 +14,31 @@
     </div>
   </div>
 
+  <div>
     <h1 class="alt-h1 text-center mb-4 mb-md-6">LyricFinder</h1>
     <h6 class="alt-h6 text-center mb-4 mb-md-6">
     For all your music needs. Search for lyrics to a song. 
     Look up an album to find a list of corresponding songs. 
     Look up an artist to get that artist's discography.
     </h6>
+  </div>
 
     <div class="login-box">
     <h2 class="alt-h2 text-center mb-4 mb-md-6">Search</h2>
-      <form>
+      <form method="POST">
         <div class="user-box">
-          <input type="text" name="" required="">
+          <input type="text" name="userInputSong" required="">
           <label>Song</label>
         </div>
         <div class="user-box">
-          <input type="text" name="" required="">
+          <input type="text" name="userInputAlbum" required="">
           <label>Album</label>
         </div>
         <div class="user-box">
-          <input type="text" name="" required="">
+          <input type="text" name="userInputArtist" required="">
           <label>Artist</label>
         </div>
-        <a href="#">
-          <span></span>
-          <span></span>
-          <span></span>
-          <span></span>
-          Submit
-        </a>
+        <input type="submit" class="submitRecord" value="Submit">
       </form>
     </div>
     </div>

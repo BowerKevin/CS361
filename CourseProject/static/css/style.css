@@ -116,16 +116,13 @@ h1, h3, h6{
   /* ------------------------- Form ------------------------------*/
   /* code for form template: https://codepen.io/soufiane-khalfaoui-hassani/pen/LYpPWda */
   .login-box {
-    position: absolute;
-    top: 35%;
-    left: 50%;
-    width: 400px;
-    padding: 40px;
-    transform: translate(-50%, -50%);
     background: rgba(0,0,0,.5);
     box-sizing: border-box;
     box-shadow: 0 15px 25px rgba(0,0,0,.6);
     border-radius: 10px;
+    margin: auto;
+    width: 25%;
+    padding: 40px;
   }
   
   .login-box h2 {
@@ -168,10 +165,15 @@ h1, h3, h6{
     color: #03e9f4;
     font-size: 12px;
   }
-  
-  .login-box form a {
+
+  .login-box form input[type=submit]{
     position: relative;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: hidden;
     display: inline-block;
+    background-color: transparent;
     padding: 10px 20px;
     color: #03e9f4;
     font-size: 16px;
@@ -182,14 +184,15 @@ h1, h3, h6{
     margin-top: 40px;
     letter-spacing: 4px
   }
-  
-  .login-box a:hover {
+
+  .login-box form input[type=submit]:hover{
     background: #03e9f4;
     color: #fff;
     border-radius: 5px;
   }
   
-  .login-box a span {
+  .login-box form input[type=submit] span {
     position: absolute;
     display: block;
   }
+
