@@ -196,3 +196,14 @@ h1, h3, h6{
     display: block;
   }
 
+  /* ------------------------- Lyric Box ------------------------------*/
+  /* code for form template: https://codepen.io/soufiane-khalfaoui-hassani/pen/LYpPWda */
+  .lyric-box {
+    background: rgba(0,0,0,.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    border-radius: 10px;
+    margin: auto;
+    width: 35%;
+    padding: 10px;
+  }
