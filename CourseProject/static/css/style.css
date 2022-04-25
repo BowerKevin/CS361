@@ -208,7 +208,7 @@ h1, h3, h6{
     padding: 10px;
   }
 
-    /* ------------------------- Album List Box ------------------------------*/
+/* ------------------------- Album Form ------------------------------*/
   /* code for form template: https://codepen.io/soufiane-khalfaoui-hassani/pen/LYpPWda */
   .album-box {
     background: rgba(0,0,0,.5);
@@ -216,7 +216,77 @@ h1, h3, h6{
     box-shadow: 0 15px 25px rgba(0,0,0,.6);
     border-radius: 10px;
     margin: auto;
-    text-align: left;
-    width: 35%;
-    padding: 10px;
+    width: 25%;
+    padding: 40px;
+  }
+  
+  .album-box h2 {
+    margin: 0 0 30px;
+    padding: 0;
+    color: #fff;
+    text-align: center;
+  }
+  
+  .album-box .user-box {
+    position: relative;
+  }
+  
+  .album-box .user-box input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+  }
+  .album-box .user-box label {
+    position: absolute;
+    top:0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    pointer-events: none;
+    transition: .5s;
+  }
+  
+  .album-box .user-box input:focus ~ label,
+  .album-box .user-box input:valid ~ label {
+    top: -20px;
+    left: 0;
+    color: #03e9f4;
+    font-size: 12px;
+  }
+
+  .album-box form input[type=submit]{
+    position: relative;
+    border-top-style: hidden;
+    border-left-style: hidden;
+    border-right-style: hidden;
+    border-bottom-style: hidden;
+    display: inline-block;
+    background-color: transparent;
+    padding: 10px 20px;
+    color: #03e9f4;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 40px;
+    letter-spacing: 4px
+  }
+
+  .album-box form input[type=submit]:hover{
+    background: #03e9f4;
+    color: #fff;
+    border-radius: 5px;
+  }
+  
+  .album-box form input[type=submit] span {
+    position: absolute;
+    display: block;
   }

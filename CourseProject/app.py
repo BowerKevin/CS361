@@ -64,16 +64,19 @@ def songLyrics():
                           , lyrics=lyrics
                           , songName=songName)
 
-@app.route("/albumList", methods=['GET'])
+@app.route("/albumList", methods=['GET','POST'])
 def albumList():
     albumFile = open_file("album.json", "r")
     albumData = json.load(albumFile)
 
+    albumTitle = albumData['full_title']
     songTrackAndTitleList = []
 
     for track in albumData['tracks']:
         strNumAndSong = str(track['number']) + '. ' + track['song']['title']
         songTrackAndTitleList.append(strNumAndSong)
 
-    return render_template('albumList.html', albumList=songTrackAndTitleList)
+    return render_template('albumList.html'
+                          , albumList=songTrackAndTitleList
+                          , albumTitle = albumTitle)
 
