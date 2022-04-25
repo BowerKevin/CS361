@@ -6,9 +6,9 @@
 
   <div class="header">
     <!-- <img src="music.png" alt="MusicLogo"/> -->
-    <a href="#default" class="logo">Logo</a>
+    <a href="\" class="logo">Logo</a>
     <div class="header-right">
-      <a class="active" href="#home">Home</a>
+      <a class="active" href="\">Home</a>
       <a href="#contact">FAQs</a>
       <a href="#about">About</a>
     </div>
@@ -23,40 +23,14 @@
 
 
     <div class="album-box">
-      {% for song in albumList %}
-      
+      {% for trackNum, track in albumList.items() %}
       <form method="POST">
       <div class="user-box">
-        <input type="submit" class="submitRecord" value="{{ song }}">
+        <input type="submit" class="submitRecord" value="{{ track }}" name="albumSong">
+        <input type = "hidden" value="{{ albumArtist }}" name="albumArtist">
       </div>
-      
       </form>
-        <!-- <h6 style="text-align:left !important" class="alt-h6 mb-4 mb-md-6">
-          {{ song }}
-        </h6> -->
       {% endfor %}
-
-
-
-    
-      <!-- {{ lyrics | safe }} -->
-      <!-- </h6> -->
-    <!-- <h2 class="alt-h2 text-center mb-4 mb-md-6">Search</h2>
-      <form method="POST">
-        <div class="user-box">
-          <input type="text" name="userInputSong">
-          <label>Song</label>
-        </div>
-        <div class="user-box">
-          <input type="text" name="userInputAlbum">
-          <label>Album</label>
-        </div>
-        <div class="user-box">
-          <input type="text" name="userInputArtist">
-          <label>Artist</label>
-        </div>
-        <input type="submit" class="submitRecord" value="Submit">
-      </form> -->
     </div>
     </div>
 </body>

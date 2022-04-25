@@ -221,7 +221,7 @@ h1, h3, h6{
   }
   
   .album-box h2 {
-    margin: 0 0 30px;
+    /* margin: 0 0 30px; */
     padding: 0;
     color: #fff;
     text-align: center;
@@ -233,7 +233,7 @@ h1, h3, h6{
   
   .album-box .user-box input {
     width: 100%;
-    padding: 10px 0;
+    /* padding: 10px 0; */
     font-size: 16px;
     color: #fff;
     margin-bottom: 30px;
@@ -255,7 +255,7 @@ h1, h3, h6{
   
   .album-box .user-box input:focus ~ label,
   .album-box .user-box input:valid ~ label {
-    top: -20px;
+    /* top: -20px; */
     left: 0;
     color: #03e9f4;
     font-size: 12px;
@@ -269,14 +269,14 @@ h1, h3, h6{
     border-bottom-style: hidden;
     display: inline-block;
     background-color: transparent;
-    padding: 10px 20px;
+    padding: 5px 10px;
     color: #03e9f4;
     font-size: 16px;
     text-decoration: none;
     text-transform: uppercase;
     overflow: hidden;
     transition: .5s;
-    margin-top: 40px;
+    /* margin-top: 40px; */
     letter-spacing: 4px
   }
 

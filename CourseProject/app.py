@@ -12,6 +12,9 @@ clientAccessToken = 'C2JI5egG5e7Mp5p1n9SA1PbS20R0_VLHxIHRSCUehuFa7llT7ETxws306TR
 
 app = Flask(__name__)
 
+
+genius = Genius(clientAccessToken)
+
 @app.route("/", methods=['GET', 'POST'])
 def homePage():
     if request.method == "POST":
@@ -21,7 +24,6 @@ def homePage():
         artistName = request.form["userInputArtist"]
 
         # instantiate genius api with token
-        genius = Genius(clientAccessToken)
 
         # when a user inputs song name we want to retrieve the lyrics of said song
         if songName and artistName:
@@ -66,17 +68,32 @@ def songLyrics():
 
 @app.route("/albumList", methods=['GET','POST'])
 def albumList():
-    albumFile = open_file("album.json", "r")
-    albumData = json.load(albumFile)
+    if request.method == "GET":
+        albumFile = open_file("album.json", "r")
+        albumData = json.load(albumFile)
 
-    albumTitle = albumData['full_title']
-    songTrackAndTitleList = []
+        albumTitle = albumData['full_title']
+        albumArtist = albumData['artist']['name']
+        songTrackAndTitleDict = {}
 
-    for track in albumData['tracks']:
-        strNumAndSong = str(track['number']) + '. ' + track['song']['title']
-        songTrackAndTitleList.append(strNumAndSong)
 
-    return render_template('albumList.html'
-                          , albumList=songTrackAndTitleList
-                          , albumTitle = albumTitle)
+        for track in albumData['tracks']:
+            songTrackAndTitleDict[track['number']] = track['song']['title']
+            # strNumAndSong = str(track['number']) + '. ' + track['song']['title']
+
+        return render_template('albumList.html'
+                            , albumArtist = albumArtist
+                            , albumList = songTrackAndTitleDict
+                            , albumTitle = albumTitle)
+    else:
+        songName = request.form["albumSong"]
+        albumArtist = request.form["albumArtist"]
+        lyrics = genius.search_song(songName, albumArtist)
+
+        if path.exists('lyrics.json'):
+            remove('lyrics.json')
+
+        lyrics.save_lyrics("lyrics")
+
+        return redirect("songLyrics")
 

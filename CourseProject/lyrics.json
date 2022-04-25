@@ -1,30 +1,29 @@
 {
  "_type": "song",
- "annotation_count": 9,
- "api_path": "/songs/64344",
+ "annotation_count": 10,
+ "api_path": "/songs/110838",
  "artist_names": "Radiohead",
- "full_title": "Karma Police by\u00a0Radiohead",
- "header_image_thumbnail_url": "https://images.genius.com/bb8f17187f42bb0b4a0dcc17cad65355.300x300x1.png",
- "header_image_url": "https://images.genius.com/bb8f17187f42bb0b4a0dcc17cad65355.1000x1000x1.png",
- "id": 64344,
+ "full_title": "Climbing up the Walls by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/d114d8bb4c110efe7a773544694169a1.300x300x1.png",
+ "header_image_url": "https://images.genius.com/d114d8bb4c110efe7a773544694169a1.1000x1000x1.png",
+ "id": 110838,
  "instrumental": false,
- "lyrics_owner_id": 66760,
+ "lyrics_owner_id": 177483,
  "lyrics_state": "complete",
- "lyrics_updated_at": 1645034059,
- "path": "/Radiohead-karma-police-lyrics",
- "pyongs_count": 101,
- "song_art_image_thumbnail_url": "https://images.genius.com/d4d61b544012d7c6667c6f6cf010cfd6.300x300x1.jpg",
- "song_art_image_url": "https://images.genius.com/d4d61b544012d7c6667c6f6cf010cfd6.1000x1000x1.jpg",
+ "lyrics_updated_at": 1649679368,
+ "path": "/Radiohead-climbing-up-the-walls-lyrics",
+ "pyongs_count": 47,
+ "song_art_image_thumbnail_url": "https://images.genius.com/d114d8bb4c110efe7a773544694169a1.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/d114d8bb4c110efe7a773544694169a1.1000x1000x1.png",
  "stats": {
-  "unreviewed_annotations": 0,
-  "concurrents": 5,
+  "unreviewed_annotations": 3,
   "hot": false,
-  "pageviews": 711587
+  "pageviews": 202806
  },
- "title": "Karma Police",
- "title_with_featured": "Karma Police",
- "updated_by_human_at": 1646242222,
- "url": "https://genius.com/Radiohead-karma-police-lyrics",
+ "title": "Climbing up the Walls",
+ "title_with_featured": "Climbing up the Walls",
+ "updated_by_human_at": 1649670964,
+ "url": "https://genius.com/Radiohead-climbing-up-the-walls-lyrics",
  "primary_artist": {
   "_type": "artist",
   "api_path": "/artists/604",
@@ -39,5 +38,5 @@
   "url": "https://genius.com/artists/Radiohead"
  },
  "artist": "Radiohead",
- "lyrics": "Karma Police Lyrics[Verse 1]\nKarma police, arrest this man\nHe talks in maths, he buzzes like a fridge\nHe's like a detuned radio\n\n[Verse 2]\nKarma police, arrest this girl\nHer Hitler hairdo is making me feel ill\nAnd we have crashed her party\n\n[Chorus]\nThis is what you'll get\nThis is what you'll get\nThis is what you'll get\nWhen you mess with us\n[Verse 3]\nKarma police, I've given all I can\nIt's not enough, I've given all I can\nBut we're still on the payroll\n\n[Chorus]\nThis is what you'll get\nThis is what you'll get\nThis is what you'll get\nWhen you mess with us\n\n[Outro]\nFor a minute there\nI lost myself, I lost myself\nPhew, for a minute there\nI lost myself, I lost myself\nFor a minute there\nI lost myself, I lost myself\nPhew, for a minute there\nI lost myself, I lost myself101Embed"
+ "lyrics": "Climbing up the Walls Lyrics[Verse 1]\nI am the key to the lock in your house\nThat keeps your toys in the basement\nAnd if you get too far inside\nYou'll only see my reflection\nIt's always best with the covers up\nI am the pick in the ice\nDo not cry out or hit the alarm\nYou know we're friends 'til we die\n\n[Chorus]\nAnd either way you turn\nI'll be there\nOpen up your skull\nI'll be there\nClimbing up the walls\n[Verse 2]\nIt's always best when the light is off\nIt's always better on the outside\nFifteen blows to the back of your head\nFifteen blows to your mind\nSo lock the kids up safe tonight\nShut the eyes in the cupboard\nI've got the smell of a local man\nWho's got the loneliest feeling\n\n[Chorus]\nThat either way he turns\nI will be there\nOpen up your skull\nI'll be there\nClimbing up the walls\nClimbing up the walls\nClimbing up the walls\n*scream*47Embed"
 }
