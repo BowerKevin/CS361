@@ -6,11 +6,11 @@
 
   <div class="header">
     <!-- <img src="music.png" alt="MusicLogo"/> -->
-    <a href="\" class="logo">Logo</a>
+    <a href="\" class="logo">LyricFinder</a>
     <div class="header-right">
-      <a class="active" href="\">Home</a>
-      <a href="#contact">FAQs</a>
-      <a href="#about">About</a>
+      <a href="\">Home</a>
+      <a href="#contact">News & Metrics</a>
+      <a class="active" href="/songLyrics">Album</a>
     </div>
   </div>
 
@@ -19,8 +19,6 @@
       {{ albumTitle }}
     </h1>
   </div>
-
-
 
     <div class="album-box">
       {% for trackNum, track in albumList.items() %}

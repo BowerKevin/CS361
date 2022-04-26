@@ -48,8 +48,8 @@ h1, h3, h6{
         font-family: Roboto,-apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
         text-align: center !important;
         color: white;
-        padding-left: 25%;
-        padding-right: 25%;
+        /* padding-left: 25%;
+        padding-right: 25%; */
     }
 }
 
@@ -275,12 +275,14 @@ h1, h3, h6{
     background-color: transparent;
     padding: 5px 10px;
     color: #03e9f4;
+    white-space: normal;
     font-size: 16px;
     text-decoration: none;
     text-transform: uppercase;
     overflow: hidden;
     transition: .5s;
     /* margin-top: 40px; */
+    margin: 0;
     letter-spacing: 4px
   }
 
@@ -293,6 +295,7 @@ h1, h3, h6{
   .album-box form input[type=submit] span {
     position: absolute;
     display: block;
+    word-wrap: break-word;
   }
 
   /* Tooltip container */
@@ -346,4 +349,19 @@ h1, h3, h6{
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
+}
+
+.imageTitle{
+  width:50%;
+  padding-left: 25%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  display: flex;
+  align-items: center;
+}
+
+.imageTitle img{
+  margin: 15;
+  width: 150px;
+  height: 150px;
 }

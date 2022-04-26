@@ -1,29 +1,29 @@
 {
  "_type": "song",
- "annotation_count": 11,
- "api_path": "/songs/1188",
+ "annotation_count": 6,
+ "api_path": "/songs/67772",
  "artist_names": "Radiohead",
- "full_title": "Fake Plastic Trees by\u00a0Radiohead",
- "header_image_thumbnail_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.300x300x1.jpg",
- "header_image_url": "https://images.genius.com/be209037c6eb607ee01d0addcc4f9020.1000x1000x1.jpg",
- "id": 1188,
+ "full_title": "Kid A by\u00a0Radiohead",
+ "header_image_thumbnail_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.300x300x1.png",
+ "header_image_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.1000x1000x1.png",
+ "id": 67772,
  "instrumental": false,
- "lyrics_owner_id": 7,
+ "lyrics_owner_id": 11637,
  "lyrics_state": "complete",
- "lyrics_updated_at": 1647547595,
- "path": "/Radiohead-fake-plastic-trees-lyrics",
- "pyongs_count": 81,
- "song_art_image_thumbnail_url": "https://images.genius.com/0a920bfb1109876ab7b5bd8dfb47b1f7.300x300x1.jpg",
- "song_art_image_url": "https://images.genius.com/0a920bfb1109876ab7b5bd8dfb47b1f7.1000x1000x1.jpg",
+ "lyrics_updated_at": 1645943655,
+ "path": "/Radiohead-kid-a-lyrics",
+ "pyongs_count": 30,
+ "song_art_image_thumbnail_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.300x300x1.png",
+ "song_art_image_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.1000x1000x1.png",
  "stats": {
   "unreviewed_annotations": 0,
   "hot": false,
-  "pageviews": 468705
+  "pageviews": 206718
  },
- "title": "Fake Plastic Trees",
- "title_with_featured": "Fake Plastic Trees",
- "updated_by_human_at": 1647547595,
- "url": "https://genius.com/Radiohead-fake-plastic-trees-lyrics",
+ "title": "Kid A",
+ "title_with_featured": "Kid A",
+ "updated_by_human_at": 1645943656,
+ "url": "https://genius.com/Radiohead-kid-a-lyrics",
  "primary_artist": {
   "_type": "artist",
   "api_path": "/artists/604",
@@ -38,5 +38,5 @@
   "url": "https://genius.com/artists/Radiohead"
  },
  "artist": "Radiohead",
- "lyrics": "Fake Plastic Trees Lyrics[Verse 1]\nA green plastic watering can\nFor a fake Chinese rubber plant\nIn a fake plastic earth\nThat she bought from a rubber man\nIn a town full of rubber plants\nTo get rid of itself\n\n[Chorus 1]\nIt wears her out\nIt wears her out\nIt wears her out\nIt wears her out\n\n[Verse 2]\nShe lives with a broken man\nA cracked polystyrene man\nWho just crumbles and burns\nHe used to do surgery\nFor girls in the eighties\nBut gravity always wins\n[Chorus 2]\nAnd it wears him out\nIt wears him out\nIt wears him out\nIt wears\n\n[Verse 3]\nShe looks like the real thing\nShe tastes like the real thing\nMy fake plastic love\nBut I can't help the feeling\nI could blow through the ceiling\nIf I just turn and run\n\n[Chorus 3]\nAnd it wears me out\nIt wears me out\nIt wears me out\nIt wears me out\n\n[Outro]\nAnd if I could be who you wanted\nIf I could be who you wanted\nAll the time\nAll the time81Embed"
+ "lyrics": "Kid A Lyrics[Verse 1]\nI slip away\nI slipped on a little white lie\n\n[Verse 2]\nWe've got heads on sticks\nAnd you've got ventriloquists\nWe've got heads on sticks\nAnd you've got ventriloquists\n\n[Verse 3]\nStanding in the shadows at the end of my bed\nStanding in the shadows at the end of my bed\nStanding in the shadows at the end of my bed\nStanding in the shadows at the end of my bed\n[Outro]\nThe rats and the children will follow me out of town\nRats and children follow me out of town\nCome on, kids30Embed"
 }

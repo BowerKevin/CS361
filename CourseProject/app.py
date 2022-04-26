@@ -58,6 +58,8 @@ def songLyrics():
     artist = lyricData['artist']
     lyrics = lyricData['lyrics']
     songName = lyricData['title']
+    songThumbImage = lyricData['song_art_image_thumbnail_url']
+    songFullImage = lyricData['song_art_image_url']
 
     # For some reason the lyrics in the json file have additional data
     # at the end, namely the pyong_count and the word embed, remove these from
@@ -71,7 +73,9 @@ def songLyrics():
     return render_template('songLyrics.html'
                           , artist=artist
                           , lyrics=lyrics
-                          , songName=songName)
+                          , songName=songName
+                          , songThumbImage=songThumbImage
+                          , songFullImage=songFullImage)
 
 @app.route("/albumList", methods=['GET','POST'])
 def albumList():
