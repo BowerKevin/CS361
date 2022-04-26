@@ -1,6 +1,7 @@
 html{
     font-family: Roboto,-apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
     background-image: linear-gradient(to left top, #370020, #36032a, #330733, #2d0e3d, #231547, #231e56, #202766, #163176, #254191, #3451ae, #4462cb, #5373e9);
+    /* background-color: whitesmoke; */
     overflow-y: scroll; 
 
 }
@@ -62,8 +63,9 @@ h1, h3, h6{
 /* Style the header with a grey background and some padding */
 .header {
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: white;
     padding: 20px 10px;
+    margin: -10;
   }
   
   /* Style the header links */
@@ -72,6 +74,7 @@ h1, h3, h6{
     color: black;
     text-align: center;
     padding: 12px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
     text-decoration: none;
     font-size: 18px;
     line-height: 25px;
@@ -81,6 +84,7 @@ h1, h3, h6{
   /* Style the logo link (notice that we set the same value of line-height and font-size to prevent the header to increase when the font gets bigger */
   .header a.logo {
     font-size: 25px;
+    font-family: Roboto,-apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
     font-weight: bold;
   }
   
@@ -92,8 +96,8 @@ h1, h3, h6{
   
   /* Style the active/current link*/
   .header a.active {
-    background-color: dodgerblue;
-    color: white;
+    background-color: #03e9f4;
+    color: black;
   }
   
   /* Float the link section to the right */
@@ -290,3 +294,56 @@ h1, h3, h6{
     position: absolute;
     display: block;
   }
+
+  /* Tooltip container */
+.tooltip {
+  position: relative;
+  margin-left: auto;
+  margin-right: 0;
+  display: inline-block;
+  color:#fff;
+  text-align: right;
+  padding-bottom: 10px;
+  /* border-bottom: 1px dotted white; If you want dots under the hoverable text */
+}
+
+/* Tooltip text */
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 300;
+  background-color: #555;
+  font-family: Roboto,-apple-system,BlinkMacSystemFont,"Helvetica Neue","Segoe UI","Oxygen","Ubuntu","Cantarell","Open Sans",sans-serif;
+  color: white;
+  text-align: center;
+  padding: 5px 0;
+  border-radius: 6px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 70%;
+  margin-left: -150px;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+}

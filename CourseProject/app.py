@@ -32,7 +32,7 @@ def homePage():
             if path.exists('lyrics.json'):
                 remove('lyrics.json')
 
-            lyrics.save_lyrics("lyrics")
+            lyrics.save_lyrics("lyrics", ensure_ascii=True, sanitize=True)
 
             return redirect("songLyrics")
         
@@ -58,9 +58,16 @@ def songLyrics():
     artist = lyricData['artist']
     lyrics = lyricData['lyrics']
     songName = lyricData['title']
+
+    # For some reason the lyrics in the json file have additional data
+    # at the end, namely the pyong_count and the word embed, remove these from
+    # the lyrics
+    pyongCount = len(str(lyricData['pyongs_count']))
+    embedCount = len('Embed')
+    totalCount = pyongCount + embedCount
+    lyrics = lyrics[0:len(lyrics)-totalCount]
     
     lyrics = lyrics.replace(chr(10), '<br>')
-    # print(lyrics)
     return render_template('songLyrics.html'
                           , artist=artist
                           , lyrics=lyrics
