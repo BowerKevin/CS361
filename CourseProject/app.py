@@ -45,9 +45,30 @@ def homePage():
             album.save_lyrics("album")
 
             return redirect("albumList")
-            # print(album.tracks)
-            # for track in album.tracks:
-            #     print(track.number, track.song)
+        
+        elif artistName:
+            artist = genius.search_artists(artistName)
+
+            if path.exists('artist.json'):
+                remove('artist.json')
+
+            with open_file('artist.json', 'w') as f:
+                json.dump(artist, f, ensure_ascii=False, indent=4)
+
+            artistFile = open_file("artist.json", "r")
+            artistData = json.load(artistFile)
+
+            artistID = artistData['sections'][0]['hits'][0]['result']['id']
+            artistAlbums = genius.artist_albums(artistID)
+
+            if path.exists('artistAlbums.json'):
+                remove('artistAlbums.json')
+
+            with open_file('artistAlbums.json', 'w') as f:
+                json.dump(artistAlbums, f, ensure_ascii=False, indent=4)
+
+            return redirect("artistList")
+            # print(artist)
 
     return render_template('hello.html')
 
@@ -71,11 +92,11 @@ def songLyrics():
     
     lyrics = lyrics.replace(chr(10), '<br>')
     return render_template('songLyrics.html'
-                          , artist=artist
-                          , lyrics=lyrics
-                          , songName=songName
-                          , songThumbImage=songThumbImage
-                          , songFullImage=songFullImage)
+                          , artist = artist
+                          , lyrics = lyrics
+                          , songName = songName
+                          , songThumbImage = songThumbImage
+                          , songFullImage = songFullImage)
 
 @app.route("/albumList", methods=['GET','POST'])
 def albumList():
@@ -85,17 +106,18 @@ def albumList():
 
         albumTitle = albumData['full_title']
         albumArtist = albumData['artist']['name']
+        albumImage = albumData['cover_art_thumbnail_url']
         songTrackAndTitleDict = {}
 
 
         for track in albumData['tracks']:
             songTrackAndTitleDict[track['number']] = track['song']['title']
-            # strNumAndSong = str(track['number']) + '. ' + track['song']['title']
 
         return render_template('albumList.html'
                             , albumArtist = albumArtist
                             , albumList = songTrackAndTitleDict
-                            , albumTitle = albumTitle)
+                            , albumTitle = albumTitle
+                            , albumImage = albumImage)
     else:
         songName = request.form["albumSong"]
         albumArtist = request.form["albumArtist"]
@@ -108,3 +130,37 @@ def albumList():
 
         return redirect("songLyrics")
 
+@app.route("/artistList", methods=['GET','POST'])
+def artistList():
+    if request.method == "GET":
+        artistAlbumDict = {}
+
+        artistFile = open_file("artistAlbums.json", "r")
+        artistData = json.load(artistFile)
+
+        artist = open_file("artist.json", "r")
+        artistFull = json.load(artist)
+
+        imageURL = artistFull['sections'][0]['hits'][0]['result']['image_url']
+        artistName = artistFull['sections'][0]['hits'][0]['result']['name']
+
+        for i, album in enumerate(artistData['albums']):
+            artistAlbumDict[i] = [album['name']
+                                , album['cover_art_thumbnail_url']]
+
+        return render_template('disc.html'
+                              , artistAlbums = artistAlbumDict
+                              , image = imageURL
+                              , artistName = artistName)
+    else:
+        albumName = request.form["albumName"]
+        albumArtist = request.form["albumArtist"]
+        print(albumName, albumArtist)
+        # lyrics = genius.search_song(songName, albumArtist)
+
+        # if path.exists('lyrics.json'):
+        #     remove('lyrics.json')
+
+        # lyrics.save_lyrics("lyrics")
+
+        return redirect("songLyrics")
