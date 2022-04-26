@@ -68,7 +68,6 @@ def homePage():
                 json.dump(artistAlbums, f, ensure_ascii=False, indent=4)
 
             return redirect("artistList")
-            # print(artist)
 
     return render_template('hello.html')
 
@@ -126,9 +125,12 @@ def albumList():
         if path.exists('lyrics.json'):
             remove('lyrics.json')
 
-        lyrics.save_lyrics("lyrics")
+        if lyrics:
+            lyrics.save_lyrics("lyrics")
 
-        return redirect("songLyrics")
+            return redirect("songLyrics")
+
+        return redirect("albumList")
 
 @app.route("/artistList", methods=['GET','POST'])
 def artistList():
@@ -155,12 +157,12 @@ def artistList():
     else:
         albumName = request.form["albumName"]
         albumArtist = request.form["albumArtist"]
-        print(albumName, albumArtist)
-        # lyrics = genius.search_song(songName, albumArtist)
+        
+        album = genius.search_album(albumName, albumArtist)
 
-        # if path.exists('lyrics.json'):
-        #     remove('lyrics.json')
+        if path.exists('album.json'):
+            remove('album.json')
+            
+        album.save_lyrics("album")
 
-        # lyrics.save_lyrics("lyrics")
-
-        return redirect("songLyrics")
+        return redirect("albumList")

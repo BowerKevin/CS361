@@ -9,16 +9,16 @@
                     "type": "artist",
                     "result": {
                         "_type": "artist",
-                        "api_path": "/artists/604",
-                        "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
-                        "id": 604,
-                        "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
-                        "index_character": "r",
+                        "api_path": "/artists/694",
+                        "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+                        "id": 694,
+                        "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+                        "index_character": "p",
                         "is_meme_verified": false,
                         "is_verified": false,
-                        "name": "Radiohead",
-                        "slug": "Radiohead",
-                        "url": "https://genius.com/artists/Radiohead"
+                        "name": "Pink Floyd",
+                        "slug": "Pink-floyd",
+                        "url": "https://genius.com/artists/Pink-floyd"
                     }
                 },
                 {
@@ -27,34 +27,16 @@
                     "type": "artist",
                     "result": {
                         "_type": "artist",
-                        "api_path": "/artists/2942957",
-                        "header_image_url": "https://images.genius.com/a6fae15addfbf84a88539e48b8e8ee17.1000x743x1.jpg",
-                        "id": 2942957,
-                        "image_url": "https://images.genius.com/ff755092539579de4059c71f8392e04d.271x271x1.jpg",
-                        "index_character": "r",
-                        "is_meme_verified": false,
-                        "is_verified": false,
-                        "name": "Radiohead (Bootleg)",
-                        "slug": "Radiohead-bootleg",
-                        "url": "https://genius.com/artists/Radiohead-bootleg"
-                    }
-                },
-                {
-                    "highlights": [],
-                    "index": "artist",
-                    "type": "artist",
-                    "result": {
-                        "_type": "artist",
-                        "api_path": "/artists/3106148",
+                        "api_path": "/artists/374996",
                         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "id": 3106148,
+                        "id": 374996,
                         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "index_character": "o",
+                        "index_character": "e",
                         "is_meme_verified": false,
                         "is_verified": false,
-                        "name": "Oreo the Animaniacs Guy, Radiohead",
-                        "slug": "Oreo-the-animaniacs-guy-radiohead",
-                        "url": "https://genius.com/artists/Oreo-the-animaniacs-guy-radiohead"
+                        "name": "Eric Prydz Vs. Pink Floyd",
+                        "slug": "Eric-prydz-vs-pink-floyd",
+                        "url": "https://genius.com/artists/Eric-prydz-vs-pink-floyd"
                     }
                 },
                 {
@@ -63,16 +45,16 @@
                     "type": "artist",
                     "result": {
                         "_type": "artist",
-                        "api_path": "/artists/3108814",
+                        "api_path": "/artists/532503",
                         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "id": 3108814,
+                        "id": 532503,
                         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "index_character": "o",
+                        "index_character": "c",
                         "is_meme_verified": false,
                         "is_verified": false,
-                        "name": "Oreo the Animaniacs Guy (Music channel), Radiohead",
-                        "slug": "Oreo-the-animaniacs-guy-music-channel-radiohead",
-                        "url": "https://genius.com/artists/Oreo-the-animaniacs-guy-music-channel-radiohead"
+                        "name": "Celtic Pink Floyd",
+                        "slug": "Celtic-pink-floyd",
+                        "url": "https://genius.com/artists/Celtic-pink-floyd"
                     }
                 },
                 {
@@ -81,34 +63,16 @@
                     "type": "artist",
                     "result": {
                         "_type": "artist",
-                        "api_path": "/artists/1882185",
+                        "api_path": "/artists/2676910",
                         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "id": 1882185,
-                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "index_character": "a",
-                        "is_meme_verified": false,
-                        "is_verified": false,
-                        "name": "Anthony Caul/Radiohead",
-                        "slug": "Anthony-caul-radiohead",
-                        "url": "https://genius.com/artists/Anthony-caul-radiohead"
-                    }
-                },
-                {
-                    "highlights": [],
-                    "index": "artist",
-                    "type": "artist",
-                    "result": {
-                        "_type": "artist",
-                        "api_path": "/artists/1734960",
-                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "id": 1734960,
+                        "id": 2676910,
                         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
                         "index_character": "p",
                         "is_meme_verified": false,
                         "is_verified": false,
-                        "name": "Panzer Radio Head",
-                        "slug": "Panzer-radio-head",
-                        "url": "https://genius.com/artists/Panzer-radio-head"
+                        "name": "Pink floyd, another brick in the wall",
+                        "slug": "Pink-floyd-another-brick-in-the-wall",
+                        "url": "https://genius.com/artists/Pink-floyd-another-brick-in-the-wall"
                     }
                 },
                 {
@@ -117,16 +81,16 @@
                     "type": "artist",
                     "result": {
                         "_type": "artist",
-                        "api_path": "/artists/1131061",
+                        "api_path": "/artists/533782",
                         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "id": 1131061,
+                        "id": 533782,
                         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "index_character": "d",
+                        "index_character": "a",
                         "is_meme_verified": false,
                         "is_verified": false,
-                        "name": "Dj RadioHead Beats",
-                        "slug": "Dj-radiohead-beats",
-                        "url": "https://genius.com/artists/Dj-radiohead-beats"
+                        "name": "The Australian Pink Floyd Show",
+                        "slug": "The-australian-pink-floyd-show",
+                        "url": "https://genius.com/artists/The-australian-pink-floyd-show"
                     }
                 },
                 {
@@ -135,16 +99,16 @@
                     "type": "artist",
                     "result": {
                         "_type": "artist",
-                        "api_path": "/artists/179479",
+                        "api_path": "/artists/2032262",
                         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "id": 179479,
+                        "id": 2032262,
                         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "index_character": "r",
+                        "index_character": "p",
                         "is_meme_verified": false,
                         "is_verified": false,
-                        "name": "Radio.dead",
-                        "slug": "Radiodead",
-                        "url": "https://genius.com/artists/Radiodead"
+                        "name": "Pink Floyd Music Publishers Ltd.",
+                        "slug": "Pink-floyd-music-publishers-ltd",
+                        "url": "https://genius.com/artists/Pink-floyd-music-publishers-ltd"
                     }
                 },
                 {
@@ -153,34 +117,34 @@
                     "type": "artist",
                     "result": {
                         "_type": "artist",
-                        "api_path": "/artists/2320143",
-                        "header_image_url": "https://images.genius.com/d723be67646cc07b9725db3e7f4cf141.500x500x1.png",
-                        "id": 2320143,
-                        "image_url": "https://images.genius.com/4c4f2fdaa4199177a2508deda0408ff4.695x695x1.png",
-                        "index_character": "r",
-                        "is_meme_verified": false,
-                        "is_verified": false,
-                        "name": "Radiohampton Market",
-                        "slug": "Radiohampton-market",
-                        "url": "https://genius.com/artists/Radiohampton-market"
-                    }
-                },
-                {
-                    "highlights": [],
-                    "index": "artist",
-                    "type": "artist",
-                    "result": {
-                        "_type": "artist",
-                        "api_path": "/artists/1779566",
+                        "api_path": "/artists/2032261",
                         "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "id": 1779566,
+                        "id": 2032261,
                         "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
-                        "index_character": "l",
+                        "index_character": "p",
                         "is_meme_verified": false,
                         "is_verified": false,
-                        "name": "Lil RaminHead",
-                        "slug": "Lil-raminhead",
-                        "url": "https://genius.com/artists/Lil-raminhead"
+                        "name": "Pink Floyd Music Ltd.",
+                        "slug": "Pink-floyd-music-ltd",
+                        "url": "https://genius.com/artists/Pink-floyd-music-ltd"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/2030789",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
+                        "id": 2030789,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1650922799",
+                        "index_character": "p",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Pank Flojd",
+                        "slug": "Pank-flojd",
+                        "url": "https://genius.com/artists/Pank-flojd"
                     }
                 }
             ]
