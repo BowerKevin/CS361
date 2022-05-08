@@ -1,0 +1,2 @@
+ACCESSKEY = 'enDB37oqr4KAZrESEJi8aSdc3HsGwTayBonecFrVUuk'
+SECRETKEY = 'Ro7foEtbe3VmVRgdbw6HzhIZyKipUka8jCyvsVi1IU8'
