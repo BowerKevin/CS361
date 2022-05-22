@@ -146,6 +146,11 @@ def artistList():
         imageURL = artistFull['sections'][0]['hits'][0]['result']['image_url']
         artistName = artistFull['sections'][0]['hits'][0]['result']['name']
 
+        wikipediaData = requests.get(f'http://localhost:9483/{artistName}?filter=band').json()
+        wikiList = wikipediaData['body'].split()[:100]
+        wikiList.append('...')
+        wikiList = ' '.join(wikiList)
+
         for i, album in enumerate(artistData['albums']):
             artistAlbumDict[i] = [album['name']
                                 , album['cover_art_thumbnail_url']]
@@ -153,7 +158,8 @@ def artistList():
         return render_template('disc.html'
                               , artistAlbums = artistAlbumDict
                               , image = imageURL
-                              , artistName = artistName)
+                              , artistName = artistName
+                              , wikiData = wikiList)
     else:
         albumName = request.form["albumName"]
         albumArtist = request.form["albumArtist"]
@@ -166,3 +172,6 @@ def artistList():
         album.save_lyrics("album")
 
         return redirect("albumList")
+
+if __name__ == '__main__':
+    app.run(debug=True)

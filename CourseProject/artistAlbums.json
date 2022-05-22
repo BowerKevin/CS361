@@ -176,19 +176,19 @@
         },
         {
             "_type": "album",
-            "api_path": "/albums/429897",
-            "cover_art_thumbnail_url": "https://images.genius.com/21f91ac015724c16c1e8b6faf6111a54.300x300x1.jpg",
-            "cover_art_url": "https://images.genius.com/21f91ac015724c16c1e8b6faf6111a54.1000x1000x1.jpg",
-            "full_title": "1972 Obfusc/ation by Pink Floyd",
-            "id": 429897,
-            "name": "1972 Obfusc/ation",
-            "name_with_artist": "1972 Obfusc/ation (artist: Pink Floyd)",
+            "api_path": "/albums/429902",
+            "cover_art_thumbnail_url": "https://images.genius.com/5dacd0d0ffc783f398e268595c4b5911.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/5dacd0d0ffc783f398e268595c4b5911.1000x1000x1.jpg",
+            "full_title": "1970 Devi/ation by Pink Floyd",
+            "id": 429902,
+            "name": "1970 Devi/ation",
+            "name_with_artist": "1970 Devi/ation (artist: Pink Floyd)",
             "release_date_components": {
                 "year": 2016,
                 "month": 11,
                 "day": 11
             },
-            "url": "https://genius.com/albums/Pink-floyd/1972-obfusc-ation",
+            "url": "https://genius.com/albums/Pink-floyd/1970-devi-ation",
             "artist": {
                 "_type": "artist",
                 "api_path": "/artists/694",
@@ -205,19 +205,19 @@
         },
         {
             "_type": "album",
-            "api_path": "/albums/429928",
-            "cover_art_thumbnail_url": "https://images.genius.com/327e5af5cfac0b83d01116c587cf6d0c.300x300x1.jpg",
-            "cover_art_url": "https://images.genius.com/327e5af5cfac0b83d01116c587cf6d0c.1000x1000x1.jpg",
-            "full_title": "1965-67 Cambridge St/ation by Pink Floyd",
-            "id": 429928,
-            "name": "1965-67 Cambridge St/ation",
-            "name_with_artist": "1965-67 Cambridge St/ation (artist: Pink Floyd)",
+            "api_path": "/albums/429916",
+            "cover_art_thumbnail_url": "https://images.genius.com/07329daabbccd351faa4b005d88138b0.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/07329daabbccd351faa4b005d88138b0.1000x1000x1.jpg",
+            "full_title": "1968 Germin/ation by Pink Floyd",
+            "id": 429916,
+            "name": "1968 Germin/ation",
+            "name_with_artist": "1968 Germin/ation (artist: Pink Floyd)",
             "release_date_components": {
                 "year": 2016,
                 "month": 11,
                 "day": 11
             },
-            "url": "https://genius.com/albums/Pink-floyd/1965-67-cambridge-st-ation",
+            "url": "https://genius.com/albums/Pink-floyd/1968-germin-ation",
             "artist": {
                 "_type": "artist",
                 "api_path": "/artists/694",
@@ -263,6 +263,64 @@
         },
         {
             "_type": "album",
+            "api_path": "/albums/429928",
+            "cover_art_thumbnail_url": "https://images.genius.com/327e5af5cfac0b83d01116c587cf6d0c.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/327e5af5cfac0b83d01116c587cf6d0c.1000x1000x1.jpg",
+            "full_title": "1965-67 Cambridge St/ation by Pink Floyd",
+            "id": 429928,
+            "name": "1965-67 Cambridge St/ation",
+            "name_with_artist": "1965-67 Cambridge St/ation (artist: Pink Floyd)",
+            "release_date_components": {
+                "year": 2016,
+                "month": 11,
+                "day": 11
+            },
+            "url": "https://genius.com/albums/Pink-floyd/1965-67-cambridge-st-ation",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/694",
+                "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+                "id": 694,
+                "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+                "index_character": "p",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Pink Floyd",
+                "slug": "Pink-floyd",
+                "url": "https://genius.com/artists/Pink-floyd"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/429897",
+            "cover_art_thumbnail_url": "https://images.genius.com/21f91ac015724c16c1e8b6faf6111a54.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/21f91ac015724c16c1e8b6faf6111a54.1000x1000x1.jpg",
+            "full_title": "1972 Obfusc/ation by Pink Floyd",
+            "id": 429897,
+            "name": "1972 Obfusc/ation",
+            "name_with_artist": "1972 Obfusc/ation (artist: Pink Floyd)",
+            "release_date_components": {
+                "year": 2016,
+                "month": 11,
+                "day": 11
+            },
+            "url": "https://genius.com/albums/Pink-floyd/1972-obfusc-ation",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/694",
+                "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
+                "id": 694,
+                "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
+                "index_character": "p",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Pink Floyd",
+                "slug": "Pink-floyd",
+                "url": "https://genius.com/artists/Pink-floyd"
+            }
+        },
+        {
+            "_type": "album",
             "api_path": "/albums/429900",
             "cover_art_thumbnail_url": "https://images.genius.com/eadcfd1da43e26da39c9de4d2dc4e86c.300x300x1.jpg",
             "cover_art_url": "https://images.genius.com/eadcfd1da43e26da39c9de4d2dc4e86c.1000x1000x1.jpg",
@@ -276,64 +334,6 @@
                 "day": 11
             },
             "url": "https://genius.com/albums/Pink-floyd/1971-reverber-ation",
-            "artist": {
-                "_type": "artist",
-                "api_path": "/artists/694",
-                "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
-                "id": 694,
-                "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
-                "index_character": "p",
-                "is_meme_verified": false,
-                "is_verified": false,
-                "name": "Pink Floyd",
-                "slug": "Pink-floyd",
-                "url": "https://genius.com/artists/Pink-floyd"
-            }
-        },
-        {
-            "_type": "album",
-            "api_path": "/albums/429902",
-            "cover_art_thumbnail_url": "https://images.genius.com/5dacd0d0ffc783f398e268595c4b5911.300x300x1.jpg",
-            "cover_art_url": "https://images.genius.com/5dacd0d0ffc783f398e268595c4b5911.1000x1000x1.jpg",
-            "full_title": "1970 Devi/ation by Pink Floyd",
-            "id": 429902,
-            "name": "1970 Devi/ation",
-            "name_with_artist": "1970 Devi/ation (artist: Pink Floyd)",
-            "release_date_components": {
-                "year": 2016,
-                "month": 11,
-                "day": 11
-            },
-            "url": "https://genius.com/albums/Pink-floyd/1970-devi-ation",
-            "artist": {
-                "_type": "artist",
-                "api_path": "/artists/694",
-                "header_image_url": "https://images.genius.com/39fff170940f12d3b88db19f01835f1d.500x500x97.gif",
-                "id": 694,
-                "image_url": "https://images.genius.com/6b5c50912d99c3cf0eabfec5f427c452.1000x1000x1.jpg",
-                "index_character": "p",
-                "is_meme_verified": false,
-                "is_verified": false,
-                "name": "Pink Floyd",
-                "slug": "Pink-floyd",
-                "url": "https://genius.com/artists/Pink-floyd"
-            }
-        },
-        {
-            "_type": "album",
-            "api_path": "/albums/429916",
-            "cover_art_thumbnail_url": "https://images.genius.com/07329daabbccd351faa4b005d88138b0.300x300x1.jpg",
-            "cover_art_url": "https://images.genius.com/07329daabbccd351faa4b005d88138b0.1000x1000x1.jpg",
-            "full_title": "1968 Germin/ation by Pink Floyd",
-            "id": 429916,
-            "name": "1968 Germin/ation",
-            "name_with_artist": "1968 Germin/ation (artist: Pink Floyd)",
-            "release_date_components": {
-                "year": 2016,
-                "month": 11,
-                "day": 11
-            },
-            "url": "https://genius.com/albums/Pink-floyd/1968-germin-ation",
             "artist": {
                 "_type": "artist",
                 "api_path": "/artists/694",
@@ -727,19 +727,19 @@
         },
         {
             "_type": "album",
-            "api_path": "/albums/440205",
-            "cover_art_thumbnail_url": "https://images.genius.com/a5d1d1e95131adf3385fba72ad7c945a.300x300x1.jpg",
-            "cover_art_url": "https://images.genius.com/a5d1d1e95131adf3385fba72ad7c945a.1000x1000x1.jpg",
-            "full_title": "Shine On by Pink Floyd",
-            "id": 440205,
-            "name": "Shine On",
-            "name_with_artist": "Shine On (artist: Pink Floyd)",
+            "api_path": "/albums/158044",
+            "cover_art_thumbnail_url": "https://images.genius.com/6085dd78ef5394cc5c4020d99c124885.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/6085dd78ef5394cc5c4020d99c124885.900x900x1.jpg",
+            "full_title": "The Early Singles by Pink Floyd",
+            "id": 158044,
+            "name": "The Early Singles",
+            "name_with_artist": "The Early Singles (artist: Pink Floyd)",
             "release_date_components": {
                 "year": 1992,
                 "month": 11,
                 "day": 24
             },
-            "url": "https://genius.com/albums/Pink-floyd/Shine-on",
+            "url": "https://genius.com/albums/Pink-floyd/The-early-singles",
             "artist": {
                 "_type": "artist",
                 "api_path": "/artists/694",
@@ -756,19 +756,19 @@
         },
         {
             "_type": "album",
-            "api_path": "/albums/158044",
-            "cover_art_thumbnail_url": "https://images.genius.com/6085dd78ef5394cc5c4020d99c124885.300x300x1.jpg",
-            "cover_art_url": "https://images.genius.com/6085dd78ef5394cc5c4020d99c124885.900x900x1.jpg",
-            "full_title": "The Early Singles by Pink Floyd",
-            "id": 158044,
-            "name": "The Early Singles",
-            "name_with_artist": "The Early Singles (artist: Pink Floyd)",
+            "api_path": "/albums/440205",
+            "cover_art_thumbnail_url": "https://images.genius.com/a5d1d1e95131adf3385fba72ad7c945a.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/a5d1d1e95131adf3385fba72ad7c945a.1000x1000x1.jpg",
+            "full_title": "Shine On by Pink Floyd",
+            "id": 440205,
+            "name": "Shine On",
+            "name_with_artist": "Shine On (artist: Pink Floyd)",
             "release_date_components": {
                 "year": 1992,
                 "month": 11,
                 "day": 24
             },
-            "url": "https://genius.com/albums/Pink-floyd/The-early-singles",
+            "url": "https://genius.com/albums/Pink-floyd/Shine-on",
             "artist": {
                 "_type": "artist",
                 "api_path": "/artists/694",
