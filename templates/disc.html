@@ -1,0 +1,46 @@
+<html>
+<head>
+    <title>LyricFinder</title><link rel="stylesheet" type="text/css" href="./static/css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <!-- <img src="music.png" alt="MusicLogo"/> -->
+    <a href="\" class="logo">LyricFinder</a>
+    <div class="header-right">
+      <a href="\">Home</a>
+      <a href="/faq">FAQs</a>
+      <a class="active" href="/songLyrics">Album</a>
+    </div>
+  </div>
+
+  <div class="imageTitle">
+    <img src="{{ image }}" width="200" height="200">
+    <h1 class="alt-h1 text-center mb-4 mb-md-6">
+      {{ artistName  ~ ' Albums' }} 
+    </h1>
+    <div class="info">	
+      <div class="tooltip">	
+        <span style="color: #03e9f4">&#8505;</span>
+        <span class="tooltiptext">
+            {{ wikiData }}
+        </span>
+      </div>
+    </div>
+  </div>
+
+    <div class="album-box">
+      {% for num, album in artistAlbums.items() %}
+      <img src="{{ album[1] }}" width="120" height="120">
+          <form method="POST">
+          <div class="user-box">
+            <input type="submit" class="submitRecord" value="{{ album[0] }}" name="albumName">
+            <input type = "hidden" value="{{ artistName }}" name="albumArtist">
+          </div>
+        </form>
+        <hr class="style-four">
+      {% endfor %}
+    </div>
+    </div>
+</body>
+</html>

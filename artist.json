@@ -1,0 +1,190 @@
+{
+    "sections": [
+        {
+            "type": "artist",
+            "hits": [
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/604",
+                        "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                        "id": 604,
+                        "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                        "index_character": "r",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Radiohead",
+                        "slug": "Radiohead",
+                        "url": "https://genius.com/artists/Radiohead"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/2942957",
+                        "header_image_url": "https://images.genius.com/a6fae15addfbf84a88539e48b8e8ee17.1000x743x1.jpg",
+                        "id": 2942957,
+                        "image_url": "https://images.genius.com/ff755092539579de4059c71f8392e04d.271x271x1.jpg",
+                        "index_character": "r",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Radiohead (Bootleg)",
+                        "slug": "Radiohead-bootleg",
+                        "url": "https://genius.com/artists/Radiohead-bootleg"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/3106148",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "id": 3106148,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "index_character": "o",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Oreo the Animaniacs Guy, Radiohead",
+                        "slug": "Oreo-the-animaniacs-guy-radiohead",
+                        "url": "https://genius.com/artists/Oreo-the-animaniacs-guy-radiohead"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/3108814",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "id": 3108814,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "index_character": "o",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Oreo the Animaniacs Guy (Music channel), Radiohead",
+                        "slug": "Oreo-the-animaniacs-guy-music-channel-radiohead",
+                        "url": "https://genius.com/artists/Oreo-the-animaniacs-guy-music-channel-radiohead"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/1882185",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "id": 1882185,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "index_character": "a",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Anthony Caul/Radiohead",
+                        "slug": "Anthony-caul-radiohead",
+                        "url": "https://genius.com/artists/Anthony-caul-radiohead"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/1734960",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "id": 1734960,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "index_character": "p",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Panzer Radio Head",
+                        "slug": "Panzer-radio-head",
+                        "url": "https://genius.com/artists/Panzer-radio-head"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/1131061",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "id": 1131061,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "index_character": "d",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Dj RadioHead Beats",
+                        "slug": "Dj-radiohead-beats",
+                        "url": "https://genius.com/artists/Dj-radiohead-beats"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/179479",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "id": 179479,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "index_character": "r",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Radio.dead",
+                        "slug": "Radiodead",
+                        "url": "https://genius.com/artists/Radiodead"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/2320143",
+                        "header_image_url": "https://images.genius.com/d723be67646cc07b9725db3e7f4cf141.500x500x1.png",
+                        "id": 2320143,
+                        "image_url": "https://images.genius.com/4c4f2fdaa4199177a2508deda0408ff4.695x695x1.png",
+                        "index_character": "r",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Radiohampton Market",
+                        "slug": "Radiohampton-market",
+                        "url": "https://genius.com/artists/Radiohampton-market"
+                    }
+                },
+                {
+                    "highlights": [],
+                    "index": "artist",
+                    "type": "artist",
+                    "result": {
+                        "_type": "artist",
+                        "api_path": "/artists/1779566",
+                        "header_image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "id": 1779566,
+                        "image_url": "https://assets.genius.com/images/default_avatar_300.png?1654272444",
+                        "index_character": "l",
+                        "is_meme_verified": false,
+                        "is_verified": false,
+                        "name": "Lil RaminHead",
+                        "slug": "Lil-raminhead",
+                        "url": "https://genius.com/artists/Lil-raminhead"
+                    }
+                }
+            ]
+        }
+    ],
+    "next_page": 2
+}

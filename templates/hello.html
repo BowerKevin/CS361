@@ -1,0 +1,60 @@
+<html>
+<head>
+    <title>LyricFinder</title><link rel="stylesheet" type="text/css" href="./static/css/style.css">
+</head>
+<body>
+
+  <div class="header">
+    <!-- <img src="music.png" alt="MusicLogo"/> -->
+    <a href="\" class="logo">LyricFinder</a>
+    <div class="header-right">
+      <a class="active" href="\">Home</a>
+      <a href="/faq">FAQs</a>
+    </div>
+  </div>
+
+  <div>
+    <h1 class="alt-h1 text-center mb-4 mb-md-6">LyricFinder</h1>
+    <h6 class="alt-h6 text-center mb-4 mb-md-6">
+    For all your music needs. Search for lyrics to a song.<br>
+    Look up an album to find a list of corresponding songs.<br> 
+    Look up an artist to get that artist's discography.
+    </h6>
+  </div>
+
+    <div class="login-box">
+      <div class="tooltip">	
+        <span style="color: #03e9f4">&#8505;</span>
+        <span class="tooltiptext">
+          To search for a specific song's lyrics:
+          <br>
+          &ensp; Input the song's name and the artist, and click submit
+
+          <br><br>
+          To search for an album:
+          <br>
+          &ensp; Input the album's name and the artist, and click submit
+        </span>
+      </div>
+    <h2 class="alt-h2 text-center mb-4 mb-md-6">Search</h2>
+      <form method="POST">
+        <div class="user-box">
+          <input type="text" name="userInputSong">
+          <label>Song</label>
+        </div>
+        <div class="user-box">
+          <input type="text" name="userInputAlbum">
+          <label>Album</label>
+        </div>
+        <div class="user-box">
+          <input type="text" name="userInputArtist">
+          <label>Artist</label>
+        </div>
+        <input type="submit" class="submitRecord" value="Submit">
+        <br>
+        <input type="reset" class="resetRecord" value="Reset">
+      </form>
+    </div>
+    </div>
+</body>
+</html>

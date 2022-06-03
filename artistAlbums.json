@@ -1,0 +1,875 @@
+{
+    "albums": [
+        {
+            "_type": "album",
+            "api_path": "/albums/813672",
+            "cover_art_thumbnail_url": "https://images.genius.com/d2aeb7e930634e18f5321fac3b731730.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/d2aeb7e930634e18f5321fac3b731730.1000x1000x1.png",
+            "full_title": "KID A MNESIA by Radiohead",
+            "id": 813672,
+            "name": "KID A MNESIA",
+            "name_with_artist": "KID A MNESIA (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2021,
+                "month": 11,
+                "day": 5
+            },
+            "url": "https://genius.com/albums/Radiohead/Kid-a-mnesia",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/536324",
+            "cover_art_thumbnail_url": "https://images.genius.com/2065a61cdeb11a9b79712ad71ac1007a.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/2065a61cdeb11a9b79712ad71ac1007a.1000x1000x1.jpg",
+            "full_title": "MINIDISCS [HACKED] by Radiohead",
+            "id": 536324,
+            "name": "MINIDISCS [HACKED]",
+            "name_with_artist": "MINIDISCS [HACKED] (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2019,
+                "month": 6,
+                "day": 11
+            },
+            "url": "https://genius.com/albums/Radiohead/Minidiscs-hacked",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/354854",
+            "cover_art_thumbnail_url": "https://images.genius.com/63e3cd49bdc8ffeb6afea64f616f3388.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/63e3cd49bdc8ffeb6afea64f616f3388.800x800x1.jpg",
+            "full_title": "OK Computer OKNOTOK 1997 2017 CASSETTE by Radiohead",
+            "id": 354854,
+            "name": "OK Computer OKNOTOK 1997 2017 CASSETTE",
+            "name_with_artist": "OK Computer OKNOTOK 1997 2017 CASSETTE (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2017,
+                "month": 7,
+                "day": 21
+            },
+            "url": "https://genius.com/albums/Radiohead/Ok-computer-oknotok-1997-2017-cassette",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/343022",
+            "cover_art_thumbnail_url": "https://images.genius.com/673f2ff56af3cc01b84519b447c1c2a2.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/673f2ff56af3cc01b84519b447c1c2a2.1000x1000x1.png",
+            "full_title": "OK Computer OKNOTOK 1997 2017 by Radiohead",
+            "id": 343022,
+            "name": "OK Computer OKNOTOK 1997 2017",
+            "name_with_artist": "OK Computer OKNOTOK 1997 2017 (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2017,
+                "month": 6,
+                "day": 23
+            },
+            "url": "https://genius.com/albums/Radiohead/Ok-computer-oknotok-1997-2017",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/151702",
+            "cover_art_thumbnail_url": "https://images.genius.com/be6fa61ce751d9e9ba5b7a15d765a7e6.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/be6fa61ce751d9e9ba5b7a15d765a7e6.1000x1000x1.png",
+            "full_title": "A Moon Shaped Pool by Radiohead",
+            "id": 151702,
+            "name": "A Moon Shaped Pool",
+            "name_with_artist": "A Moon Shaped Pool (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2016,
+                "month": 5,
+                "day": 8
+            },
+            "url": "https://genius.com/albums/Radiohead/A-moon-shaped-pool",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/431228",
+            "cover_art_thumbnail_url": "https://images.genius.com/a198ac36f6663ed3102b5ddb7be85cb9.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/a198ac36f6663ed3102b5ddb7be85cb9.1000x1000x1.png",
+            "full_title": "The King of Limbs: Live from the Basement by Radiohead",
+            "id": 431228,
+            "name": "The King of Limbs: Live from the Basement",
+            "name_with_artist": "The King of Limbs: Live from the Basement (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2011,
+                "month": 12,
+                "day": 19
+            },
+            "url": "https://genius.com/albums/Radiohead/The-king-of-limbs-live-from-the-basement",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/36454",
+            "cover_art_thumbnail_url": "https://images.genius.com/254fb4ea0460956428b447ed82c0c425.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/254fb4ea0460956428b447ed82c0c425.1000x1000x1.png",
+            "full_title": "The Daily Mail / Staircase by Radiohead",
+            "id": 36454,
+            "name": "The Daily Mail / Staircase",
+            "name_with_artist": "The Daily Mail / Staircase (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2011,
+                "month": 12,
+                "day": 19
+            },
+            "url": "https://genius.com/albums/Radiohead/The-daily-mail-staircase",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/436801",
+            "cover_art_thumbnail_url": "https://images.genius.com/de808d7fd9450a9103cbcabd90cb70f6.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/de808d7fd9450a9103cbcabd90cb70f6.1000x1000x1.jpg",
+            "full_title": "TKOL RMX 1234567 by Radiohead",
+            "id": 436801,
+            "name": "TKOL RMX 1234567",
+            "name_with_artist": "TKOL RMX 1234567 (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2011,
+                "month": 9,
+                "day": 16
+            },
+            "url": "https://genius.com/albums/Radiohead/Tkol-rmx-1234567",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/92240",
+            "cover_art_thumbnail_url": "https://images.genius.com/7fda15b2aadaa61d9bd9655b543a42ee.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/7fda15b2aadaa61d9bd9655b543a42ee.1000x1000x1.jpg",
+            "full_title": "Supercollider / The Butcher by Radiohead",
+            "id": 92240,
+            "name": "Supercollider / The Butcher",
+            "name_with_artist": "Supercollider / The Butcher (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2011,
+                "month": 4,
+                "day": 16
+            },
+            "url": "https://genius.com/albums/Radiohead/Supercollider-the-butcher",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/36451",
+            "cover_art_thumbnail_url": "https://images.genius.com/030c9ada807fcc58bd86cb6b1551d786.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/030c9ada807fcc58bd86cb6b1551d786.1000x1000x1.png",
+            "full_title": "The King of Limbs by Radiohead",
+            "id": 36451,
+            "name": "The King of Limbs",
+            "name_with_artist": "The King of Limbs (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2011,
+                "month": 2,
+                "day": 18
+            },
+            "url": "https://genius.com/albums/Radiohead/The-king-of-limbs",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/900549",
+            "cover_art_thumbnail_url": "https://images.genius.com/07cf9f8cc18ffbec3b4559298131db51.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/07cf9f8cc18ffbec3b4559298131db51.1000x1000x1.jpg",
+            "full_title": "Hail to the Thief (Collectors Edition) by Radiohead",
+            "id": 900549,
+            "name": "Hail to the Thief (Collectors Edition)",
+            "name_with_artist": "Hail to the Thief (Collectors Edition) (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2009,
+                "month": 8,
+                "day": 31
+            },
+            "url": "https://genius.com/albums/Radiohead/Hail-to-the-thief-collectors-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/895122",
+            "cover_art_thumbnail_url": "https://images.genius.com/8cda2520b608d09d80e7e8d8d018a3a0.300x304x1.jpg",
+            "cover_art_url": "https://images.genius.com/8cda2520b608d09d80e7e8d8d018a3a0.425x431x1.jpg",
+            "full_title": "Amnesiac (Collector's Edition) by Radiohead",
+            "id": 895122,
+            "name": "Amnesiac (Collector’s Edition)",
+            "name_with_artist": "Amnesiac (Collector's Edition) (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2009,
+                "month": 8,
+                "day": 31
+            },
+            "url": "https://genius.com/albums/Radiohead/Amnesiac-collector-s-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/901728",
+            "cover_art_thumbnail_url": "https://images.genius.com/7072cf5de5b38696a4b752a923e1a8ca.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/7072cf5de5b38696a4b752a923e1a8ca.1000x1000x1.jpg",
+            "full_title": "Kid A (Collector’s Edition) by Radiohead",
+            "id": 901728,
+            "name": "Kid A (Collector’s Edition)",
+            "name_with_artist": "Kid A (Collector’s Edition) (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2009,
+                "month": 8,
+                "day": 31
+            },
+            "url": "https://genius.com/albums/Radiohead/Kid-a-collectors-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/900394",
+            "cover_art_thumbnail_url": "https://images.genius.com/fa7e0b5df1d5356a1d55d092c84796d3.300x297x1.jpg",
+            "cover_art_url": "https://images.genius.com/fa7e0b5df1d5356a1d55d092c84796d3.400x396x1.jpg",
+            "full_title": "The Bends (Collectors Edition) by Radiohead",
+            "id": 900394,
+            "name": "The Bends (Collectors Edition)",
+            "name_with_artist": "The Bends (Collectors Edition) (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2009,
+                "month": 8,
+                "day": 31
+            },
+            "url": "https://genius.com/albums/Radiohead/The-bends-collectors-edition",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/421631",
+            "cover_art_thumbnail_url": "https://images.genius.com/35a402a93ff3098b6092b608cd452fa6.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/35a402a93ff3098b6092b608cd452fa6.1000x1000x1.png",
+            "full_title": "In Rainbows - From the Basement by Radiohead",
+            "id": 421631,
+            "name": "In Rainbows - From the Basement",
+            "name_with_artist": "In Rainbows - From the Basement (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2008,
+                "month": 6,
+                "day": 24
+            },
+            "url": "https://genius.com/albums/Radiohead/In-rainbows-from-the-basement",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/288049",
+            "cover_art_thumbnail_url": "https://images.genius.com/08d699166bdfac686052a191e836eaf7.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/08d699166bdfac686052a191e836eaf7.1000x1000x1.jpg",
+            "full_title": "The Best Of by Radiohead",
+            "id": 288049,
+            "name": "The Best Of",
+            "name_with_artist": "The Best Of (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2008,
+                "month": 6,
+                "day": 2
+            },
+            "url": "https://genius.com/albums/Radiohead/The-best-of",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/114069",
+            "cover_art_thumbnail_url": "https://images.genius.com/f3fb452efee985c8134c2542bea16eda.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/f3fb452efee985c8134c2542bea16eda.1000x1000x1.png",
+            "full_title": "In Rainbows Disk 2 by Radiohead",
+            "id": 114069,
+            "name": "In Rainbows Disk 2",
+            "name_with_artist": "In Rainbows Disk 2 (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2007,
+                "month": 12,
+                "day": 3
+            },
+            "url": "https://genius.com/albums/Radiohead/In-rainbows-disk-2",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/14959",
+            "cover_art_thumbnail_url": "https://images.genius.com/38989efe696e4e1d63bea40c361e6c80.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/38989efe696e4e1d63bea40c361e6c80.1000x1000x1.png",
+            "full_title": "In Rainbows by Radiohead",
+            "id": 14959,
+            "name": "In Rainbows",
+            "name_with_artist": "In Rainbows (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2007,
+                "month": 10,
+                "day": 10
+            },
+            "url": "https://genius.com/albums/Radiohead/In-rainbows",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/40696",
+            "cover_art_thumbnail_url": "https://images.genius.com/58a73ba6ef55221f481007d29e9df0e2.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/58a73ba6ef55221f481007d29e9df0e2.1000x1000x1.jpg",
+            "full_title": "COM LAG (2plus2is5) by Radiohead",
+            "id": 40696,
+            "name": "COM LAG (2plus2is5)",
+            "name_with_artist": "COM LAG (2plus2is5) (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2004,
+                "month": 3,
+                "day": 24
+            },
+            "url": "https://genius.com/albums/Radiohead/Com-lag-2plus2is5",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/900613",
+            "cover_art_thumbnail_url": "https://images.genius.com/632c7f76c6e2832ae449cb311a986871.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/632c7f76c6e2832ae449cb311a986871.600x600x1.jpg",
+            "full_title": "2 + 2 = 5 by Radiohead",
+            "id": 900613,
+            "name": "2 + 2 = 5",
+            "name_with_artist": "2 + 2 = 5 (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2003,
+                "month": 11,
+                "day": 17
+            },
+            "url": "https://genius.com/albums/Radiohead/2-2-5",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/19640",
+            "cover_art_thumbnail_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/0cb3630a833bb45a4f27bd877f9771ca.1000x1000x1.png",
+            "full_title": "Hail to the Thief by Radiohead",
+            "id": 19640,
+            "name": "Hail to the Thief",
+            "name_with_artist": "Hail to the Thief (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2003,
+                "month": 6,
+                "day": 9
+            },
+            "url": "https://genius.com/albums/Radiohead/Hail-to-the-thief",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/161623",
+            "cover_art_thumbnail_url": "https://images.genius.com/ac2d2f232f72f2ad6953f317fc6e95a2.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/ac2d2f232f72f2ad6953f317fc6e95a2.1000x1000x1.jpg",
+            "full_title": "I Might Be Wrong: Live Recordings by Radiohead",
+            "id": 161623,
+            "name": "I Might Be Wrong: Live Recordings",
+            "name_with_artist": "I Might Be Wrong: Live Recordings (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2001,
+                "month": 11,
+                "day": 12
+            },
+            "url": "https://genius.com/albums/Radiohead/I-might-be-wrong-live-recordings",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/89927",
+            "cover_art_thumbnail_url": "https://images.genius.com/7b55176ddac7649fbc15ee6293faed3a.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/7b55176ddac7649fbc15ee6293faed3a.877x877x1.png",
+            "full_title": "Knives Out - Single by Radiohead",
+            "id": 89927,
+            "name": "Knives Out - Single",
+            "name_with_artist": "Knives Out - Single (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2001,
+                "month": 8,
+                "day": 5
+            },
+            "url": "https://genius.com/albums/Radiohead/Knives-out-single",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/17548",
+            "cover_art_thumbnail_url": "https://images.genius.com/d0e91534319df87455e757041bffcb4d.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/d0e91534319df87455e757041bffcb4d.1000x1000x1.png",
+            "full_title": "Amnesiac by Radiohead",
+            "id": 17548,
+            "name": "Amnesiac",
+            "name_with_artist": "Amnesiac (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2001,
+                "month": 6,
+                "day": 5
+            },
+            "url": "https://genius.com/albums/Radiohead/Amnesiac",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/166149",
+            "cover_art_thumbnail_url": "https://images.genius.com/f8a08a50358626ee7ef69157b54e2146.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/f8a08a50358626ee7ef69157b54e2146.1000x1000x1.png",
+            "full_title": "Pyramid Song - Single by Radiohead",
+            "id": 166149,
+            "name": "Pyramid Song - Single",
+            "name_with_artist": "Pyramid Song - Single (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2001,
+                "month": 5,
+                "day": 16
+            },
+            "url": "https://genius.com/albums/Radiohead/Pyramid-song-single",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/10781",
+            "cover_art_thumbnail_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.300x300x1.png",
+            "cover_art_url": "https://images.genius.com/76b2d67f3be61ab3909381ef4f3eaa4e.1000x1000x1.png",
+            "full_title": "Kid A by Radiohead",
+            "id": 10781,
+            "name": "Kid A",
+            "name_with_artist": "Kid A (artist: Radiohead)",
+            "release_date_components": {
+                "year": 2000,
+                "month": 10,
+                "day": 2
+            },
+            "url": "https://genius.com/albums/Radiohead/Kid-a",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/165914",
+            "cover_art_thumbnail_url": "https://images.genius.com/9e18152019ffcba652b479141ca4341e.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/9e18152019ffcba652b479141ca4341e.1000x1000x1.jpg",
+            "full_title": "Airbag / How Am I Driving? by Radiohead",
+            "id": 165914,
+            "name": "Airbag / How Am I Driving?",
+            "name_with_artist": "Airbag / How Am I Driving? (artist: Radiohead)",
+            "release_date_components": {
+                "year": 1998,
+                "month": 4,
+                "day": 21
+            },
+            "url": "https://genius.com/albums/Radiohead/Airbag-how-am-i-driving",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/166150",
+            "cover_art_thumbnail_url": "https://images.genius.com/8230717d42050e36027fa4c0cedbe595.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/8230717d42050e36027fa4c0cedbe595.1000x1000x1.jpg",
+            "full_title": "No Surprises by Radiohead",
+            "id": 166150,
+            "name": "No Surprises",
+            "name_with_artist": "No Surprises (artist: Radiohead)",
+            "release_date_components": {
+                "year": 1998,
+                "month": 1,
+                "day": 12
+            },
+            "url": "https://genius.com/albums/Radiohead/No-surprises",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/165917",
+            "cover_art_thumbnail_url": "https://images.genius.com/c759b581ac6c78dd738f7720681f649a.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/c759b581ac6c78dd738f7720681f649a.1000x1000x1.jpg",
+            "full_title": "No Surprises/Running from Demons by Radiohead",
+            "id": 165917,
+            "name": "No Surprises/Running from Demons",
+            "name_with_artist": "No Surprises/Running from Demons (artist: Radiohead)",
+            "release_date_components": {
+                "year": 1997,
+                "month": 12,
+                "day": 10
+            },
+            "url": "https://genius.com/albums/Radiohead/No-surprises-running-from-demons",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        },
+        {
+            "_type": "album",
+            "api_path": "/albums/423273",
+            "cover_art_thumbnail_url": "https://images.genius.com/7dcaa6f89640c678f3d66353c7e0faeb.300x300x1.jpg",
+            "cover_art_url": "https://images.genius.com/7dcaa6f89640c678f3d66353c7e0faeb.314x314x1.jpg",
+            "full_title": "Lucky by Radiohead",
+            "id": 423273,
+            "name": "Lucky",
+            "name_with_artist": "Lucky (artist: Radiohead)",
+            "release_date_components": {
+                "year": 1997,
+                "month": 12,
+                "day": null
+            },
+            "url": "https://genius.com/albums/Radiohead/Lucky",
+            "artist": {
+                "_type": "artist",
+                "api_path": "/artists/604",
+                "header_image_url": "https://images.genius.com/3e9184ce720440d311258e6e8cd94f16.600x338x220.gif",
+                "id": 604,
+                "image_url": "https://images.genius.com/593c69b2e4bb8eb47801ce1952c5d30b.600x600x184.gif",
+                "index_character": "r",
+                "is_meme_verified": false,
+                "is_verified": false,
+                "name": "Radiohead",
+                "slug": "Radiohead",
+                "url": "https://genius.com/artists/Radiohead"
+            }
+        }
+    ],
+    "next_page": 2
+}
